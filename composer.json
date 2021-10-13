@@ -10,8 +10,8 @@
     }
   ],
   "require": {
-    "php": ">=7.2 || 8",
-    "nuwave/lighthouse": "^4 || ^5",
+    "php": ">=7.2|^8.0",
+    "nuwave/lighthouse": "^4|^5",
     "illuminate/support": "^7.7",
     "illuminate/console": "^7.7",
     "illuminate/cache": "^7.7",
